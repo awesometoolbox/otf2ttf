@@ -1,0 +1,86 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "e0a366326674ac5711fa86cc64f706adefec039f95aad761641c064fbbc80203"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "appdirs": {
+            "hashes": [
+                "sha256:9e5896d1372858f8dd3344faf4e5014d21849c756c8d5701f78f8a103b372d92",
+                "sha256:d8b24664561d0d34ddfaec54636d502d7cea6e29c3eaf68f3df6180863e2166e"
+            ],
+            "version": "==1.4.3"
+        },
+        "cu2qu": {
+            "hashes": [
+                "sha256:01a70624163b1a73792ef0f585b614e71e5c4885d06f545aebae85202f71ba62",
+                "sha256:0ff0161a4dbc4d84d1d38a17647332d304fbbb0f4536677ce83257d5921ad3fd",
+                "sha256:1ee2503516892af930b96fdc1176151314387a015b6af897bd6fa456084260cc",
+                "sha256:309d40e11702034f3c6770db20be11712a26d2e2911e436ac1ecb1769f3024d6",
+                "sha256:321b62d398c6c39507acc223315b845a54c255ae7c4190289e2584a655b5e160",
+                "sha256:4b3bc12761c6ac5cfa3cc95babde8cbec5cd0041bc311a33f403efd7765d8cad",
+                "sha256:57ed7856ee520df2cf10e288dbaeba2f9e54da918c12f2ac83d164055067295a",
+                "sha256:6bf3dbd5daa5c3ec5e1d6efb1eed36ed2563304398d2100424b673de9f64fd79",
+                "sha256:77fa964432afbc7501d60246b87a82de2cf99711eabb60121ce14dcf99f300f9",
+                "sha256:7a2f024e3a01fdba1a85290a0d7141abd8a375af80fb178d2412c1cf1e3f86df",
+                "sha256:92e8db2338bde72df830556afb5d33cbd3c052c197b3262856646ff2308a2d0e",
+                "sha256:b3b4a0d80798489906ca503c4a7a749e0a360670aa2f10f21dd01682e37b8293",
+                "sha256:c9197aa2471112c2a7c87c8b509d81ca0daaadbe77a73ba6e0e9a72be3f58f20",
+                "sha256:d6727edac77b2d8d3e56b04fe3237c089c2b151db03d6ee777cbb163c52c1c0a",
+                "sha256:f10cd6088b7ee83b1a8f7eca886f4355e2152b47432a8e4e7b05eb6390cc7db4",
+                "sha256:f3050119434c15cf47896fc50fd9ff2f46f18db3ada31fd8a9c996f456879c24",
+                "sha256:f68bfc3c75dfa77dce9813671c86fe1bda2ed0e732dd5818566193097f038e74",
+                "sha256:ffc205cc5895c8a39563c63dd9b215345014aff2877155e9a33ee48408dbc352"
+            ],
+            "version": "==1.6.5"
+        },
+        "fonttools": {
+            "extras": [
+                "ufo"
+            ],
+            "hashes": [
+                "sha256:9415fda795f4ff8e89d41ab907388ec5a4c236f4774ea65a746d8c1e4e839d3d",
+                "sha256:c095fc06da714c8364d5f44278afa05f4c70c8db7f36d1664aceb15d7be08d31"
+            ],
+            "version": "==4.0.0"
+        },
+        "fs": {
+            "hashes": [
+                "sha256:cc99d476b500f993df8ef697b96dc70928ca2946a455c396a566efe021126767",
+                "sha256:cd6b178f373a0370feac8612fd3c142aa6a5cadd3d471b525b08db4d3b511c9c"
+            ],
+            "version": "==2.4.11"
+        },
+        "otf2ttf": {
+            "editable": true,
+            "path": "./"
+        },
+        "pytz": {
+            "hashes": [
+                "sha256:26c0b32e437e54a18161324a2fca3c4b9846b74a8dccddd843113109e1116b32",
+                "sha256:c894d57500a4cd2d5c71114aaab77dbab5eabd9022308ce5ac9bb93a60a6f0c7"
+            ],
+            "version": "==2019.2"
+        },
+        "six": {
+            "hashes": [
+                "sha256:3350809f0555b11f552448330d0b52d5f24c91a322ea4a15ef22629740f3761c",
+                "sha256:d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73"
+            ],
+            "version": "==1.12.0"
+        }
+    },
+    "develop": {}
+}
